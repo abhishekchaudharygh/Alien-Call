@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "397085665622",
+    "project_id": "aliencall",
+    "storage_bucket": "aliencall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397085665622:android:241107f855c0c4da4f8ef7",
+        "android_client_info": {
+          "package_name": "com.example.aliencall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397085665622-7ctnt0fag7orta5p6je1v93utbl2gn94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aliencall",
+            "certificate_hash": "56a5dd7641f0b40f2d8805334b6aae5a15c9b946"
+          }
+        },
+        {
+          "client_id": "397085665622-ddgd7omb2dskgn05gvhh4u1tb4sc9jl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB02ne7ZtmmKeeEq7TNfS1JgTde6y83Moc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397085665622-ddgd7omb2dskgn05gvhh4u1tb4sc9jl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
